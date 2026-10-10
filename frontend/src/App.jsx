@@ -1,10 +1,10 @@
 import React from 'react';
-import PriorityBoard from './pages/m1_priority/PriorityBoard';
+import M1Module from './m1_priority/M1Module';
 
 function App() {
   return (
     <div className="app-container">
-      <PriorityBoard />
+      <M1Module />
     </div>
   );
 }
